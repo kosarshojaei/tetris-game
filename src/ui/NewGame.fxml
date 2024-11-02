@@ -1,0 +1,45 @@
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Text?>
+<Pane xmlns:fx="http://javafx.com/fxml"
+      fx:controller="ui.GameController">
+
+    <BorderPane fx:id="gameBoard">
+        <center>
+            <GridPane fx:id="gamePanel" hgap="1" vgap="1" layoutY="30" layoutX="40"/>
+        </center>
+    </BorderPane>
+    <GridPane fx:id="brickPanel" vgap="1" hgap="1"/>
+
+    <VBox layoutX="335" layoutY="20" alignment="CENTER">
+        <VBox alignment="CENTER">
+            <Label text="Next brick"/>
+            <BorderPane styleClass="nextBrick" prefWidth="100" prefHeight="70" maxWidth="100">
+                <center>
+                    <GridPane fx:id="nextBrick" alignment="CENTER" hgap="1" vgap="1"/>
+                </center>
+            </BorderPane>
+        </VBox>
+        <VBox alignment="CENTER">
+            <Label text="Level:"/>
+            <Text text="1" fx:id="levelValue"/>
+        </VBox>
+        <VBox alignment="CENTER">
+            <Label text="Score:"/>
+            <Text text="0" fx:id="scoreValue"/>
+        </VBox>
+        <VBox alignment="CENTER">
+            <Label text="Heart:"/>
+            <Text text="3" fx:id="heartValue"/>
+        </VBox>
+
+        <ToggleButton text="Pause" onAction="#pauseGame" prefWidth="140"
+                      fx:id="pauseButton"/>
+        <VBox fx:id="helpBox">
+            <Text styleClass="helpInfo" wrappingWidth="150">
+                Use arrow keys (←, ↑, →, ↓) or (A,S,D,W) keys for movement and rotating.
+            </Text>
+
+        </VBox>
+    </VBox>
+</Pane>

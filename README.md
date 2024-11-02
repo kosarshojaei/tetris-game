@@ -1,6 +1,3 @@
-# tetris-game
-برای نوشتن فایل README.md برای پروژه Tetris که با Java و JavaFX توسعه دادهاید، میتوانید از الگوی زیر استفاده کنید:
-
 # Tetris Game
 
 A classic Tetris game developed in Java using JavaFX for the user interface.

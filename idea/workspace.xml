@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Tetris:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1076476f-953f-408c-b3be-e73e904183dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Tetris_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logic/bricks/Brick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/logic/bricks/Brick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/Controller.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dgglbQPxFs3f8vVw9cJ1Rq5JRE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Main" />
+      <module name="Tetris" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1076476f-953f-408c-b3be-e73e904183dc" name="Default Changelist" comment="" />
+      <created>1592852304661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592852304661</updated>
+      <workItem from="1592852315270" duration="893000" />
+      <workItem from="1593020749128" duration="652000" />
+      <workItem from="1593677385214" duration="1695000" />
+      <workItem from="1593679252558" duration="341000" />
+      <workItem from="1593690797580" duration="1901000" />
+      <workItem from="1593692792001" duration="1425000" />
+      <workItem from="1593877675768" duration="1833000" />
+      <workItem from="1593879636666" duration="1798000" />
+      <workItem from="1593881489684" duration="625000" />
+      <workItem from="1593884913480" duration="2075000" />
+      <workItem from="1593887042914" duration="2050000" />
+      <workItem from="1594295790716" duration="1891000" />
+      <workItem from="1594318749846" duration="2159000" />
+      <workItem from="1594359263522" duration="1677000" />
+      <workItem from="1594361049652" duration="2357000" />
+      <workItem from="1594363517207" duration="909000" />
+      <workItem from="1594374200730" duration="1816000" />
+      <workItem from="1594376455783" duration="750000" />
+      <workItem from="1594458533661" duration="1655000" />
+      <workItem from="1594527539838" duration="1736000" />
+      <workItem from="1594529363096" duration="1000000" />
+      <workItem from="1594551967193" duration="1792000" />
+      <workItem from="1594553847141" duration="421000" />
+      <workItem from="1594556587646" duration="1791000" />
+      <workItem from="1594561046348" duration="1389000" />
+      <workItem from="1594563313177" duration="539000" />
+      <workItem from="1594564056721" duration="1239000" />
+      <workItem from="1594565421155" duration="1752000" />
+      <workItem from="1594568498803" duration="1738000" />
+      <workItem from="1594571298129" duration="453000" />
+      <workItem from="1601903930601" duration="1672000" />
+      <workItem from="1601906118872" duration="38000" />
+      <workItem from="1601982629623" duration="266000" />
+      <workItem from="1607255491863" duration="497000" />
+      <workItem from="1608653730425" duration="84000" />
+      <workItem from="1612976808843" duration="369000" />
+      <workItem from="1631886118904" duration="137000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1050" height="8" key="GridCell.Tab.0.bottom" timestamp="1631886261640">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state width="1050" height="8" key="GridCell.Tab.0.bottom/0.0.1093.574@0.0.1093.574" timestamp="1631886261640" />
+    <state width="1050" height="8" key="GridCell.Tab.0.center" timestamp="1631886261624">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state width="1050" height="8" key="GridCell.Tab.0.center/0.0.1093.574@0.0.1093.574" timestamp="1631886261624" />
+    <state width="1050" height="8" key="GridCell.Tab.0.left" timestamp="1631886261624">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state width="1050" height="8" key="GridCell.Tab.0.left/0.0.1093.574@0.0.1093.574" timestamp="1631886261624" />
+    <state width="1050" height="8" key="GridCell.Tab.0.right" timestamp="1631886261624">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state width="1050" height="8" key="GridCell.Tab.0.right/0.0.1093.574@0.0.1093.574" timestamp="1631886261624" />
+    <state x="243" y="113" key="com.intellij.ide.util.TipDialog" timestamp="1631886139039">
+      <screen x="0" y="0" width="1093" height="574" />
+    </state>
+    <state x="243" y="113" key="com.intellij.ide.util.TipDialog/0.0.1093.574@0.0.1093.574" timestamp="1631886139039" />
+  </component>
+</project>

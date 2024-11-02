@@ -1,0 +1,10 @@
+A.R.S,1000
+kosar,140
+kosar,110
+A.R.S,90
+player1,40
+player,40
+ff,10
+player,0
+hani,0
+player,0

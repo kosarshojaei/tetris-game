@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Rectangle2D?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.effect.ColorAdjust?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Font?>
+<GridPane xmlns:fx="http://javafx.com/fxml/1" fx:id="main" alignment="center" hgap="10" vgap="10"
+          xmlns="http://javafx.com/javafx/10.0.2-internal" fx:controller="ui.Controller">
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <Button mnemonicParsing="false" onAction="#NewGameBtnClick" prefHeight="26.0" prefWidth="150.0" text="New Game" textAlignment="CENTER" textFill="#131111" GridPane.rowIndex="1">
+         <effect>
+            <ColorAdjust brightness="-0.42" contrast="-0.14" hue="-1.0" saturation="-0.42" />
+         </effect>
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font></Button>
+      <Button mnemonicParsing="false" onAction="#ScoresTableBtnClick" prefHeight="26.0" prefWidth="150.0" text="Scores Table" GridPane.rowIndex="2">
+         <font>
+            <Font size="15.0" />
+         </font></Button>
+      <Button mnemonicParsing="false" onAction="#SettingBtnClick" prefHeight="26.0" prefWidth="151.0" text="Setting" GridPane.rowIndex="3" />
+      <Button mnemonicParsing="false" onAction="#ExitBtnClick" prefHeight="26.0" prefWidth="151.0" text="Exit" GridPane.rowIndex="4" />
+      <ImageView id="image" disable="true" fitHeight="150.0" fitWidth="175.0" layoutX="10.0" layoutY="10.0" pickOnBounds="true" preserveRatio="true">
+         <viewport>
+            <Rectangle2D />
+         </viewport>
+         <image>
+            <Image url="@../../tetris.png"/>
+         </image>
+      </ImageView>
+   </children>
+</GridPane>

@@ -1,6 +1,6 @@
 # Tetris Game
 
-A classic Tetris game developed in Java using JavaFX for the user interface.
+A classic Tetris game developed in Java using JavaFX for the user interface!
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -34,8 +34,6 @@ cd tetris-game
 
 
 3. Compile the Java files (if necessary) and run the application using your preferred IDE or command line.
-
-
 
 Usage
 
